@@ -1,0 +1,17 @@
+.ContraMujeres {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  justify-content: center;
+}
+.Titulo {
+  grid-column: 1/-1;
+}
+.Cuerpo {
+  display: contents;
+}
+@media (max-width: 768px) {
+  .ContraMujeres {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Geo:ital@0;1&family=Great+Vibes&family=Iceberg&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Irish+Grover&family=Jockey+One&family=Lobster&family=Outfit:wght@100..900&display=swap");
+body {
+  padding-top: 70px;
+  font-family: "Outfit", serif;
+  background-color: black;
+  margin: 0px;
+}
+.Page {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  justify-content: center;
+  margin: 10px;
+}
+#CoplasBasiconas {
+  background-color: #00a838;
+}
+#CoplasAtrevidas {
+  color: white;
+  background-color: #ff3131;
+}
+#ContrapuntoHombres {
+  color: white;
+  background-color: rgb(0, 127, 190);
+}
+#ContrapuntoMujeres {
+  color: white;
+  background-color: rgb(255, 0, 123);
+}
+.card_coplas {
+  background-color: #4a0d83;
+}
+@media (max-width: 768px) {
+  body {
+    padding-top: 70px;
+    background-color: black;
+  }
+  .Page {
+    grid-template-columns: 1fr;
+  }
+}
