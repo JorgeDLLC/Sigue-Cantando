@@ -9,6 +9,7 @@ import ContraHombres from "./sections/ContrapuntoHombres";
 import "./App.css";
 
 function App() {
+  document.title = "Coplas Carnaval";
   return (
     <div className="App">
       <div className="Navbar">
