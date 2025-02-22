@@ -16,6 +16,18 @@ const ContraHombres: React.FC = () => {
           paragraph4="Yo te separo las dos"
         />
         <Coplas
+          paragraph1="China loca tu no sabes"
+          paragraph2="Lo que te va a suceder"
+          paragraph3="Te voy a callar la booca"
+          paragraph4="No lo vayas a morder"
+        />
+        <Coplas
+          paragraph1="Esta noche a ti te toca"
+          paragraph2="En la pose de la moto"
+          paragraph3="Tu mondonquito en el suelo"
+          paragraph4="Por atras te rompo el poto"
+        />
+        <Coplas
           paragraph1="Que buen chanchito tu tienes"
           paragraph2="Yo lo llevaré al camal"
           paragraph3="Hasta me arden las orejas"
