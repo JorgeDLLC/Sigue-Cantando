@@ -94,20 +94,13 @@ const Basiconas: React.FC = () => {
           paragraph1="Las estrellas en el cielo"
           paragraph2="Caminan de dos en dos"
           paragraph3="Así caminan mis ojos"
-          paragraph4="flaquita por verte a vos"
+          paragraph4="Flaquita por verte a vos"
         />
         <Coplas
           paragraph1="Lima ciudad de los reyes"
           paragraph2="Trujillo primaveral"
           paragraph3="Y mi bella Cajamarca"
-          paragraph4="capital del carnaval"
-        />
-
-        <Coplas
-          paragraph1="Loco Loco Loco por mis carnavales"
-          paragraph2="Yo loco loco ella loquita"
-          paragraph3="Ella lo quita yo lo coloco"
-          paragraph4="Se toma todo lo que hay"
+          paragraph4="Capital del carnaval"
         />
         <Coplas
           paragraph1="Mi sombrero va volando"
